@@ -5,25 +5,24 @@ con Socket.io y Express. La version de node utilizada es v16.10.0
 
 ## Requisitos
 
-- Tener instalado Node.js
+- Tener instalado Node.js, la última LTS está bien. 
 
-- Dentro del proyecto hay un archivo llamado .env en la raiz del proyecto, cambia el puerto si en tu equipo esta ocupado.
+- Dentro del proyecto hay un archivo llamado .env en la raíz del proyecto, cambia el puerto si en tu equipo está ocupado.
 
 - Dentro de la carpeta del proyecto en la terminal ejecuta el comando
+    >npm install
     
-    > npm install 
-    
-    Esto instalara los paquetes necesarios para lanzar el servidor
+    Esto instalará los paquetes necesarios para lanzar el servidor
 
-- Cuando finalice, ejecuta el comando 
-    
-    >npm start 
-    
-    Esto iniciara el servidor
+- Cuando finalice, ejecuta el comando
+    >npm start
 
-- Si tienes problemas de conexion, tal vez debas desactivar el firewall momentaneamente en el equipo que ejecuta el servidor o reinicialo. Preciona Ctrl + Z para finalizar el servidor y levantalo de nuevo con "npm start" o "node app".
+    Esto iniciará el servidor
 
-- Abre el navegador con la ip del servidor seguido del puerto, por ejemplo "192.168.100.40:8000" y mostrara la informacion de los productos registrados. Si estas en Google Chrome abre la consola del navegador. Verás los cambios en tiempo real. 
+- Si tienes problemas de conexión, tal vez debas desactivar el firewall momentáneamente en el equipo que ejecuta el servidor o reiniciarlo. Presiona Ctrl + Z para finalizar el servidor y levantalo de nuevo con "npm start" o "node app".
 
-Eso seria todo!! Ya tienes el servidor montado
+- Abre el navegador con la ip del servidor seguido del puerto, por ejemplo "192.168.100.40:8000" y mostrará la información de los productos registrados. Si estás en Google Chrome abre la consola del navegador. Verás los cambios en tiempo real.
+
+
+Eso sería todo!! Ya tienes el servidor montado.
 
