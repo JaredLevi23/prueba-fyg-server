@@ -23,5 +23,7 @@ con Socket.io y Express. La version de node utilizada es v16.10.0
 
 - Si tienes problemas de conexion, tal vez debas desactivar el firewall momentaneamente en el equipo que ejecuta el servidor o reinicialo. Preciona Ctrl + Z para finalizar el servidor y levantalo de nuevo con "npm start" o "node app".
 
+- Abre el navegador con la ip del servidor seguido del puerto, por ejemplo "192.168.100.40:8000" y mostrara la informacion de los productos registrados. Si estas en Google Chrome abre la consola del navegador. Verás los cambios en tiempo real. 
+
 Eso seria todo!! Ya tienes el servidor montado
 
