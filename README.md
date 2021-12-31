@@ -1,4 +1,4 @@
-# Prueba técnica FYG Catálogo de productos
+# Prueba técnica FYG Servidor
 
 Este repositorio tiene todo el codigo fuente para ejecutar un servidor de Node
 con Socket.io y Express. La version de node utilizada es v16.10.0
