@@ -21,5 +21,7 @@ con Socket.io y Express. La version de node utilizada es v16.10.0
     
     Esto iniciara el servidor
 
+- Si tienes problemas de conexion, tal vez debas desactivar el firewall momentaneamente en el equipo que ejecuta el servidor o reinicialo. Preciona Ctrl + Z para finalizar el servidor y levantalo de nuevo con "npm start" o "node app".
+
 Eso seria todo!! Ya tienes el servidor montado
 
